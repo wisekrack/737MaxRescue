@@ -5,7 +5,7 @@ Clone the git project:
 ```
 $ git clone https://github.com/axonml/BattleTankDown
 ```
-```
+
 ## Build it 
 Open the MakeFile and set the following if you have it in your system  
 ```
@@ -14,6 +14,6 @@ CUDNN=0
 OPENCV=1
 ```
 And now you are ready to make it 
-'''
+```
 make
-'''
+```
