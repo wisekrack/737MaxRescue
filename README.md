@@ -17,3 +17,4 @@ And now you are ready to make it
 ```
 make
 ```
+![GitHub Logo](predictions.jpg)
